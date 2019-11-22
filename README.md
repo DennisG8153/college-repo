@@ -1,1 +1,1 @@
-Testing testing 123
+hello! This repo will be taking about the SUNY college Postdam!
